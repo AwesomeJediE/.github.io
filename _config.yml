@@ -17,7 +17,7 @@ slogan: 'My Silly Website'
 description: 'I may be a silly goose'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Site template created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Original site template created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p><p> I do not give permission for machine learning ("AI") to be trained on this personal site, as indicated with the robots.txt file, nor any of my creations.</p> <p>My personal information is to be kept private from my online aliases, such as: my legal name, birthdate, orientation, location/school/job. This is not to be shared publicly!</p><p>Thank you! :yippee:</p>'
 
 # Main author of the website
 # See > authors.yml
